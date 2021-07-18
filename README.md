@@ -28,7 +28,7 @@ POST home/log
 
 ### Retorna um array de logs
 GET home/search
-http://127.0.0.1:8000/search?logType= 1&content=temo(s) de pesquisa&initialDate=2021-01-20 22:10:10&finalDate=2021-12-20 22:10:10
+http://127.0.0.1:8000/search?logType=1&content=temo(s) de pesquisa&initialDate=2021-01-20 22:10:10&finalDate=2021-12-20 22:10:10
 
 #### Parâmetros
 - logType = 1
