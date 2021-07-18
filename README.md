@@ -16,6 +16,9 @@ Para facilitar, abaixo segue um exemplo simples das requisições de API:
 ### Retorna um array de logs
 GET home/log
 
+### Indexa todos os logs existentes
+GET home/indexLogs
+
 ### Cria um novo Log
 POST home/log
 {
