@@ -21,10 +21,10 @@ GET home/indexLogs
 
 ### Cria um novo Log
 POST home/log
-{
-    "logType": 1,
-    "content": "descrição do log"
-}
+- {
+-     "logType": 1,
+-     "content": "descrição do log"
+- }
 
 ### Retorna um array de logs
 GET home/search
