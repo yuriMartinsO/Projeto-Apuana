@@ -27,10 +27,11 @@ POST home/log
 GET home/search
 http://127.0.0.1:8000/search?logType= 1&content=temo(s) de pesquisa&initialDate=2021-01-20 22:10:10&finalDate=2021-12-20 22:10:10
 
-logType = 1
-content = temo(s) de pesquisa
-initialDate = 2021-01-20 22:10:10
-finalDate = 2021-12-20 22:10:10
+#### Parâmetros
+- logType = 1
+- content = temo(s) de pesquisa
+- initialDate = 2021-01-20 22:10:10
+- finalDate = 2021-12-20 22:10:10
 
 # License
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
