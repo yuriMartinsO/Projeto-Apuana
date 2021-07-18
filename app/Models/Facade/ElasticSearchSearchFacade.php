@@ -24,7 +24,7 @@ class ElasticSearchSearchFacade
             'type' => 'log',
             'body' => $search->toArray(),
         ];
-  
+ 
         $client = new Client();
         $return = $client->search($params);
 
@@ -33,7 +33,7 @@ class ElasticSearchSearchFacade
         foreach ($return["hits"]["hits"] as $result) {
             $results[] = $result["_source"];
         }
-        
+ 
         return $results;
     }
 }
