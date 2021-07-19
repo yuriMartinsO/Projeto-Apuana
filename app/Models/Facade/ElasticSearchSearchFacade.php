@@ -16,7 +16,7 @@ class ElasticSearchSearchFacade
     public function search($searchFields)
     {
         $search = new \ONGR\ElasticsearchDSL\Search();
-        
+
         ElasticsearchQueryLog::build($searchFields, $search);
 
         $params = [
