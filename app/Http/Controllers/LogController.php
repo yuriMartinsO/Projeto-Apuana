@@ -19,7 +19,7 @@ class LogController extends Controller
         return response()->json([
             'GET /log' => 'Return all logs',
             'POST /log' => 'Create a new log',
-            'POST /search' => 'Search for logs',
+            'GET /search' => 'Search for logs',
             'GET /indexLogs' => 'index all logs'
         ], 200);
     }
