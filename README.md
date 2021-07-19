@@ -31,7 +31,7 @@ GET home/search?logType=1&content=temo(s) de pesquisa&initialDate=2021-01-20 22:
 
 #### Parâmetros
 - logType = 1
-- content = temo(s) de pesquisa
+- content = termo(s) de pesquisa
 - initialDate = 2021-01-20 22:10:10
 - finalDate = 2021-12-20 22:10:10
 
