@@ -35,5 +35,5 @@ GET home/search?logType=1&content=temo(s) de pesquisa&initialDate=2021-01-20 22:
 - initialDate = 2021-01-20 22:10:10
 - finalDate = 2021-12-20 22:10:10
 
-# License
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+# Licença
+[MIT license](https://opensource.org/licenses/MIT).
