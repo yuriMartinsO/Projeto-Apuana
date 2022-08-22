@@ -10,7 +10,6 @@ Para mais informações sobre ElasticSearch: https://www.elastic.co/pt/what-is/e
 - Execute o projeto rodando o comando: php artisan serve e também executando o ElasticSearch
 
 # Documentação da API
-
 Para facilitar, abaixo segue um exemplo simples das requisições de API:
 
 ### Retorna um array de logs
