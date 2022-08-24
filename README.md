@@ -1,5 +1,4 @@
 # Sobre o projeto Apuana:
-
 O projeto tem como iniciativa criar um sistema simples de logs, bem também como a utilização do ElasticSearch.
 Para mais informações sobre ElasticSearch: https://www.elastic.co/pt/what-is/elasticsearch
 
